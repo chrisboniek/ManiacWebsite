@@ -1,2 +1,0 @@
-# ManiacWebsite
-Created with CodeSandbox
